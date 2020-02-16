@@ -3,27 +3,236 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xtddw.github.io/code/python/base/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/life/book/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xtddw.github.io/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/docker/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/python/effective-python/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/git/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/link/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/life/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/life/movie/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/post/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/python/aads/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/redis/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/soft/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/work/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/work/doc/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/life/gqj/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/life/lijian/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/post/01_%E8%AF%97%E8%AF%8D/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/work/log/</loc>
+    <lastmod>2020-02-16T17:20:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/angular/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/go/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/python/</loc>
+    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/angular/angular_01_%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA/</loc>
     <lastmod>2019-12-29T13:36:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xtddw.github.io/posts/flask/</loc>
+    <loc>https://xtddw.github.io/code/dotnetcore/01%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E5%8F%8A%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2019-12-29T13:36:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xtddw.github.io/posts/</loc>
+    <loc>https://xtddw.github.io/code/dotnetcore/02%E9%9B%86%E6%88%90efcore/</loc>
     <lastmod>2019-12-29T13:36:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xtddw.github.io/posts/hugo/</loc>
-    <lastmod>2019-12-26T20:44:23+08:00</lastmod>
+    <loc>https://xtddw.github.io/code/dotnetcore/03%E6%97%A5%E5%BF%97logger/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/04%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/05%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/06resourcemodel/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/07%E6%A8%A1%E5%9E%8B%E9%AA%8C%E8%AF%81/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/08rest/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/09%E7%BF%BB%E9%A1%B5%E8%BF%87%E6%BB%A4%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/10%E8%B5%84%E6%BA%90%E5%A1%91%E5%BD%A2/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/11hateoas/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/12postputpatchdelete/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/go/base/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/identityserver4/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/dotnetcore/oauth2openidconnect/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/code/python/flask/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/note/sercet/</loc>
+    <lastmod>2019-12-29T13:36:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/work/huawei/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://xtddw.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xtddw.github.io/series/</loc>
   </url>
   
   <url>

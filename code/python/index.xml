@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Byone</title>
+    <link>https://xtddw.github.io/code/python/</link>
+    <description>Recent content in python on Byone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xtddw7@gmail.com (byone)</managingEditor>
+    <webMaster>xtddw7@gmail.com (byone)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 12:50:46 +0900</lastBuildDate>
+    
+        <atom:link href="https://xtddw.github.io/code/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Base Python</title>
+        <link>https://xtddw.github.io/code/python/base/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/base/</guid>
+        <description>Python Cookbook Python Web 入坑指南 《Python in Practice》 Python面试题 《writing idiomatic python ebook》 《Python 3 Patterns, Recipes and Idioms》 《3</description>
+      </item>
+      
+      <item>
+        <title>effective python</title>
+        <link>https://xtddw.github.io/code/python/effective-python/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/effective-python/</guid>
+        <description>用Pythonic方式来思考 确认python版本 python2 python3 CPython Jython IronPython PyPy 1 python --version 1 2 3 import sys print(sys.version) print(sys.version_info) 遵循PEP8风格指南 python Enhancement Proposal #8 Pylint 源码静态分析工具 空白 使用spa</description>
+      </item>
+      
+      <item>
+        <title>Python数据结构与算法</title>
+        <link>https://xtddw.github.io/code/python/aads/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/aads/</guid>
+        <description>python data structures and algorithms problem-solving-with-algorithms-and-data-structure-using-python 程序 = 算法 + 数据结构 算法（Algorithm）：是指解题方案的准确而完整的描述，是一系列解决问题的清晰指令，算法代表着用系统的方</description>
+      </item>
+      
+      <item>
+        <title>Flask</title>
+        <link>https://xtddw.github.io/code/python/flask/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/flask/</guid>
+        <description>flask部署 不建议在windows系统上部署flask应用 准备 IP config MongoDB setup MongoDB-express setup Nginx linux 系统 * uwsgi windows系统 * waitress * 编写.bat文件 RunHiddenConsole * 把.ba</description>
+      </item>
+      
+
+    
+  </channel>
+</rss>

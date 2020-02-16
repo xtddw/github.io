@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Byone</title>
+    <link>https://xtddw.github.io/post/</link>
+    <description>Recent content in Posts on Byone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xtddw7@gmail.com (byone)</managingEditor>
+    <webMaster>xtddw7@gmail.com (byone)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 17:20:08 +0800</lastBuildDate>
+    
+        <atom:link href="https://xtddw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>诗词</title>
+        <link>https://xtddw.github.io/post/01_%E8%AF%97%E8%AF%8D/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/post/01_%E8%AF%97%E8%AF%8D/</guid>
+        <description>饮酒-陶渊明 结庐在人境，而无车马喧 问君何能尔，心远地自偏 采菊东篱下，悠然见南山 山气日夕佳，飞鸟相与还 此中有真意，欲辨已忘言</description>
+      </item>
+      
+
+    
+  </channel>
+</rss>

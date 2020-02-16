@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Byone</title>
+    <link>https://xtddw.github.io/work/</link>
+    <description>Recent content in Works on Byone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xtddw7@gmail.com (byone)</managingEditor>
+    <webMaster>xtddw7@gmail.com (byone)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 17:20:08 +0800</lastBuildDate>
+    
+        <atom:link href="https://xtddw.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>人才招聘</title>
+        <link>https://xtddw.github.io/work/doc/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/work/doc/</guid>
+        <description>web前端开发工程师 职位职责： 参与Web前端项目架构及核心代码研发工作； 各产品web端功能的设计开发及实现； JS与其他语言的混合型应用开发；</description>
+      </item>
+      
+      <item>
+        <title>调研考察</title>
+        <link>https://xtddw.github.io/work/log/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/work/log/</guid>
+        <description>江铜贵溪冶炼厂 重庆首届智博会 Smart China Export</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://xtddw.github.io/work/huawei/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/work/huawei/</guid>
+        <description>万 王 张 宋
+行业解决方案
+数据驱动
+中石化 PaaS服务
+云平台租赁 SaaS服务
+私有云与公有云的版本维护、安全管理
+统一设备接入标准（Roma平台产品)
+设计院的数字化交付（产权、使用权限等）
+供应链协同
+数字化集成平台
+全连接工鞋协同数字化座舱 WeLink
+华为去A
+智慧园区
+Atlas人工智能训练算法，嵌入设备
+合作分工：华为云端资源提供，边缘计算服务</description>
+      </item>
+      
+
+    
+  </channel>
+</rss>

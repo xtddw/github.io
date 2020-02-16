@@ -1,34 +1,373 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Byone Blog</title>
+    <title>Byone</title>
     <link>https://xtddw.github.io/</link>
-    <description>Recent content on Byone Blog</description>
+    <description>Recent content on Byone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sun, 29 Dec 2019 13:36:17 +0800</lastBuildDate>
+    <language>en</language>
+    <managingEditor>xtddw7@gmail.com (byone)</managingEditor>
+    <webMaster>xtddw7@gmail.com (byone)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 17:20:08 +0800</lastBuildDate>
     
-	<atom:link href="https://xtddw.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://xtddw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Flask</title>
-      <link>https://xtddw.github.io/posts/flask/</link>
-      <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+    
       
-      <guid>https://xtddw.github.io/posts/flask/</guid>
-      <description>flask部署 不建议在windows系统上部署flask应用 准备 IP config MongoDB setup MongoDB-express setup Nginx linux 系统 * uwsgi windows系统 * waitress * 编写.bat文件 RunHiddenConsole * 把.ba</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://xtddw.github.io/posts/hugo/</link>
-      <pubDate>Thu, 26 Dec 2019 20:44:23 +0800</pubDate>
       
-      <guid>https://xtddw.github.io/posts/hugo/</guid>
-      <description>Hello Hugo hugo
-$ hugo new posts/XXX.md</description>
-    </item>
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Base Python</title>
+        <link>https://xtddw.github.io/code/python/base/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/base/</guid>
+        <description>Python Cookbook Python Web 入坑指南 《Python in Practice》 Python面试题 《writing idiomatic python ebook》 《Python 3 Patterns, Recipes and Idioms》 《3</description>
+      </item>
+      
+      <item>
+        <title>Book</title>
+        <link>https://xtddw.github.io/life/book/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/book/</guid>
+        <description>Readed 小王子 圣埃克苏佩里 围城 钱钟书 活着 余华 1988我想和这个世界谈谈 韩寒 平凡的世界 路遥 明朝那些事儿 当年明月 万历十五年 黄仁宇 1Q84 村上春树 边城 沈从文 许</description>
+      </item>
+      
+      <item>
+        <title>docker</title>
+        <link>https://xtddw.github.io/note/docker/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/docker/</guid>
+        <description>redis docker pull redis 创建redis容器，启动redis-server docker run -d --name myredis -p 6379:6379 -v /c:/Workspace/redis redis --appendonly yes dockers中开启磁盘共享 ​ * -it 启动交互界面 启动redis</description>
+      </item>
+      
+      <item>
+        <title>effective python</title>
+        <link>https://xtddw.github.io/code/python/effective-python/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/effective-python/</guid>
+        <description>用Pythonic方式来思考 确认python版本 python2 python3 CPython Jython IronPython PyPy 1 python --version 1 2 3 import sys print(sys.version) print(sys.version_info) 遵循PEP8风格指南 python Enhancement Proposal #8 Pylint 源码静态分析工具 空白 使用spa</description>
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>https://xtddw.github.io/note/git/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/git/</guid>
+        <description>配置 用户名和邮件 $ git config --global user.name &amp;quot;zhanggx&amp;quot; $ git config --global user.email enfizgx@163.com 设置别名 sudo git config &amp;ndash;system alias.st status sudo git config &amp;ndash;system alias.ci commit sudo git config &amp;ndash;system alias.co checkout sudo git config &amp;ndash;system alias.br branch 开启颜色提示 git config &amp;ndash;global color.ui true 教程</description>
+      </item>
+      
+      <item>
+        <title>link</title>
+        <link>https://xtddw.github.io/note/link/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/link/</guid>
+        <description>FindHao v2ex Hosts修改翻墙</description>
+      </item>
+      
+      <item>
+        <title>Movie</title>
+        <link>https://xtddw.github.io/life/movie/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/movie/</guid>
+        <description>电影 肖申克的救赎 霸王别姬 这个杀手不太冷 千与千寻 泰坦尼克号 阿甘正传 盗梦空间 海上钢琴师 三傻大闹宝莱坞 忠犬八公的故事 大话西游之大圣娶亲/仙履奇缘 大</description>
+      </item>
+      
+      <item>
+        <title>Python数据结构与算法</title>
+        <link>https://xtddw.github.io/code/python/aads/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/aads/</guid>
+        <description>python data structures and algorithms problem-solving-with-algorithms-and-data-structure-using-python 程序 = 算法 + 数据结构 算法（Algorithm）：是指解题方案的准确而完整的描述，是一系列解决问题的清晰指令，算法代表着用系统的方</description>
+      </item>
+      
+      <item>
+        <title>redis</title>
+        <link>https://xtddw.github.io/note/redis/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/redis/</guid>
+        <description>set key value get key mset mget 一次设置读取多个值 exists 判断key是否存在 del 删除key type 检查value类型 expire 设置key的有效值 expire key 时长(s) ex : set key value ex 时长(s)</description>
+      </item>
+      
+      <item>
+        <title>soft</title>
+        <link>https://xtddw.github.io/note/soft/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/soft/</guid>
+        <description>windows Listary total commander AHK Everything 搜索 common vim|neovim Emacs org-mode Potlayer WW 视频播放器 Foobar2000 音乐播放器 Ditto 剪贴版加强 hexo 博客 mkdocs 文档 Firefox/Chrome 浏览器（奔跑的奶牛） 书签同步 XMarks 鼠标手势 CLEAN crxMouse Gestures vim模式操作 Vimium gi</description>
+      </item>
+      
+      <item>
+        <title>人才招聘</title>
+        <link>https://xtddw.github.io/work/doc/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/work/doc/</guid>
+        <description>web前端开发工程师 职位职责： 参与Web前端项目架构及核心代码研发工作； 各产品web端功能的设计开发及实现； JS与其他语言的混合型应用开发；</description>
+      </item>
+      
+      <item>
+        <title>宫崎骏</title>
+        <link>https://xtddw.github.io/life/gqj/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/gqj/</guid>
+        <description>风之谷 1984年：风之谷（风の谷のナウシカ) 天空之城 1986年：天空之城(天空の城ラピュタ) 龙猫 1988年：龙猫(となりのトトロ) 魔女宅急便</description>
+      </item>
+      
+      <item>
+        <title>李健</title>
+        <link>https://xtddw.github.io/life/lijian/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/lijian/</guid>
+        <description>似水流年 2003年9月 绽放 似水流年 远 一辈子的十分钟 今生今世 遥不可及 什刹海 八月照相馆 温暖 传奇 紫罗兰 为你而来 2005年1月 为你而来 不知不觉 在海上</description>
+      </item>
+      
+      <item>
+        <title>诗词</title>
+        <link>https://xtddw.github.io/post/01_%E8%AF%97%E8%AF%8D/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/post/01_%E8%AF%97%E8%AF%8D/</guid>
+        <description>饮酒-陶渊明 结庐在人境，而无车马喧 问君何能尔，心远地自偏 采菊东篱下，悠然见南山 山气日夕佳，飞鸟相与还 此中有真意，欲辨已忘言</description>
+      </item>
+      
+      <item>
+        <title>调研考察</title>
+        <link>https://xtddw.github.io/work/log/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/work/log/</guid>
+        <description>江铜贵溪冶炼厂 重庆首届智博会 Smart China Export</description>
+      </item>
+      
+      <item>
+        <title>01_项目创建</title>
+        <link>https://xtddw.github.io/code/angular/angular_01_%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/angular/angular_01_%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA/</guid>
+        <description>安装工具 Nodejs npm Angular CLI npm install -g @angular/cli 项目建立 ng new blog-client cd my-app ng serve –open (aliasng serve -o) 常用命令 --dry-run (alias: -d) : Run through without making any changes. --style less : The file extension to be used for style files. NG-ZORRO ng add ng-zorro-antd</description>
+      </item>
+      
+      <item>
+        <title>01_项目创建及基础配置</title>
+        <link>https://xtddw.github.io/code/dotnetcore/01%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E5%8F%8A%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/01%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E5%8F%8A%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/</guid>
+        <description>项目创建 ASP .NET Core Web Application 设置为Blog.Api 选择Empty+No Authentication 添加.NET Core类库，Blog.Core + Blog.Infrastructure Infrastructure 依赖 Core Api 依赖 Infrastructure + Core Program + Startup Pr</description>
+      </item>
+      
+      <item>
+        <title>02_集成EFCore</title>
+        <link>https://xtddw.github.io/code/dotnetcore/02%E9%9B%86%E6%88%90efcore/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/02%E9%9B%86%E6%88%90efcore/</guid>
+        <description>建立和注册Context 安装包 &amp;raquo;&amp;gt; Infrastructure项目 Microsoft.EntityFrameworkCore.Design Microsoft.EntityFrameworkCore.[Sqlite][SqlServer][MySql] dotnet add package Microsoft.EntityFrameworkCore.SqlServer Install-Package Microsoft.EntityFrameworkCore.SqlServer 建立Context Entities &amp;raquo;&amp;gt; Core项目 1 2 3 4 5 6 7 8 public class Post : Entity</description>
+      </item>
+      
+      <item>
+        <title>03_日志</title>
+        <link>https://xtddw.github.io/code/dotnetcore/03%E6%97%A5%E5%BF%97logger/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/03%E6%97%A5%E5%BF%97logger/</guid>
+        <description>Log 默认自带log &amp;raquo;&amp;gt;Program 1 WebHost.CreateDefaultBuilder()中做了默认配置 2. Log API ASP .NET Core 提供了一套Log API, 它可以各种各样的</description>
+      </item>
+      
+      <item>
+        <title>04_项目配置</title>
+        <link>https://xtddw.github.io/code/dotnetcore/04%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/04%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/</guid>
+        <description>配置提供商 文件格式(INI, JSON, XML) 命令行参数 环境变量 内存中的.NET对象 未加密的Secret管理存储 加密的用户存储, 例如Azure秘钥库 自定义</description>
+      </item>
+      
+      <item>
+        <title>05_异常处理</title>
+        <link>https://xtddw.github.io/code/dotnetcore/05%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/05%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</guid>
+        <description>默认异常处理 1 app.UseDeveloperExceptionPage(); 自定义异常处理 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 public static class ExceptionHandlingExtensions { public static void UseMyExceptionHandler(this IApplicationBuilder app,ILoggerFactory loggerFactory) { app.UseExceptionHandler(build =&amp;gt; { build.Run(async context =&amp;gt; { context.Response.StatusCode = StatusCodes.Status500InternalServerError; context.Response.ContentType = &amp;#34;application/json&amp;#34;; var ex = context.Features.Get&amp;lt;IExceptionHandlerFeature&amp;gt;(); if (ex != null)</description>
+      </item>
+      
+      <item>
+        <title>06_ResourceModel</title>
+        <link>https://xtddw.github.io/code/dotnetcore/06resourcemodel/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/06resourcemodel/</guid>
+        <description>API 不应直接返回Entity * Entity/Domain Model是内部实现细节 * 合约/接口界面 API应返回另外一个类（资源 Resource） 与Entity可能很像.</description>
+      </item>
+      
+      <item>
+        <title>07_模型验证</title>
+        <link>https://xtddw.github.io/code/dotnetcore/07%E6%A8%A1%E5%9E%8B%E9%AA%8C%E8%AF%81/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/07%E6%A8%A1%E5%9E%8B%E9%AA%8C%E8%AF%81/</guid>
+        <description>属性标签 https://docs.microsoft.com/zh-cn/aspnet/core/mvc/models/validation?view=aspnetcore-2.1 [CreditCard]：验证属性是否具有信用卡格式。 [Compare]：验证某个模型中的两个属性是否匹配。 [EmailAddre</description>
+      </item>
+      
+      <item>
+        <title>08_RESTful API</title>
+        <link>https://xtddw.github.io/code/dotnetcore/08rest/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/08rest/</guid>
+        <description>什么是REST REST 是 Representational State Transfer 的缩写. 它是一种架构的风格, 这种风格基于一套预定义的规则, 这些规则描述了网络资源是如何定义和寻址的. 一个实现了RES</description>
+      </item>
+      
+      <item>
+        <title>09_翻页过滤排序</title>
+        <link>https://xtddw.github.io/code/dotnetcore/09%E7%BF%BB%E9%A1%B5%E8%BF%87%E6%BB%A4%E6%8E%92%E5%BA%8F/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/09%E7%BF%BB%E9%A1%B5%E8%BF%87%E6%BB%A4%E6%8E%92%E5%BA%8F/</guid>
+        <description>翻页 Query String http://localhost:5000/api/posts?pageIndex=1&amp;amp;pageSize=10&amp;amp;orderBy=id 使用抽象父类 QueryParameters, 包含常见参数: PageIndex PageSize OrderBy… 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41</description>
+      </item>
+      
+      <item>
+        <title>10_资源塑形</title>
+        <link>https://xtddw.github.io/code/dotnetcore/10%E8%B5%84%E6%BA%90%E5%A1%91%E5%BD%A2/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/10%E8%B5%84%E6%BA%90%E5%A1%91%E5%BD%A2/</guid>
+        <description>资源塑形 如果资源的属性较多, 而且API消费者只需要一分部属性, 那么就应该考虑资源塑形 集合资源 单个资源 异常处理 IEnumerableExtensions 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</description>
+      </item>
+      
+      <item>
+        <title>11_HATEOAS</title>
+        <link>https://xtddw.github.io/code/dotnetcore/11hateoas/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/11hateoas/</guid>
+        <description>Hypermedia as the Engine of Application State REST里最复杂的约束, 构建成熟REST API的核心 可进化性, 自我描述 超媒体(Hypermedia, 例如超链接)驱动如何消费和</description>
+      </item>
+      
+      <item>
+        <title>12_CURD</title>
+        <link>https://xtddw.github.io/code/dotnetcore/12postputpatchdelete/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/12postputpatchdelete/</guid>
+        <description>安全性&amp;amp;幂等性 安全性☞方法执行后并不会改变资源的表述 幂等性☞方法无论执行多少次都会得到同样的结果 POST 添加资源 不安全，不幂等 参数[Fro</description>
+      </item>
+      
+      <item>
+        <title>base go</title>
+        <link>https://xtddw.github.io/code/go/base/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/go/base/</guid>
+        <description>BASE </description>
+      </item>
+      
+      <item>
+        <title>ex_IdentityServer4</title>
+        <link>https://xtddw.github.io/code/dotnetcore/identityserver4/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/identityserver4/</guid>
+        <description>准备 https://identityserver4.readthedocs.io/en/release/ OpenID Connect &amp;amp; OAuth 2.0 framework for ASP.NET Core 2. 建立Identity Provider项目 IdentityServer4.Templates https://github.com/IdentityServer/IdentityServer4.Templates 安装工具: dotnet new -i identityserver4.templates 重置 “dotnet new” 功能列表: dotnet new --debug:reinit 模板: dotnet new</description>
+      </item>
+      
+      <item>
+        <title>ex_OAuth2</title>
+        <link>https://xtddw.github.io/code/dotnetcore/oauth2openidconnect/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/dotnetcore/oauth2openidconnect/</guid>
+        <description>OAuth 2.0 vs OpenId Connect OAuth 2.0 OAuth 2.0是一个委托协议, 它可以让那些控制资源的人允许某个应用代表他们来访问他们控制的资源, 注意是代表这些人, 而不是假冒或模仿这</description>
+      </item>
+      
+      <item>
+        <title>Flask</title>
+        <link>https://xtddw.github.io/code/python/flask/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/code/python/flask/</guid>
+        <description>flask部署 不建议在windows系统上部署flask应用 准备 IP config MongoDB setup MongoDB-express setup Nginx linux 系统 * uwsgi windows系统 * waitress * 编写.bat文件 RunHiddenConsole * 把.ba</description>
+      </item>
+      
+      <item>
+        <title>sercet</title>
+        <link>https://xtddw.github.io/note/sercet/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/sercet/</guid>
+        <description>jupyter jupyter 0198 1 2 3 4 5 6 @echo off cd &amp;#34;c:\jupyter&amp;#34; jupyter notebook echo 【按任意键退出】 pause&amp;gt;nul exit mysql 3306 root 12346 1 2 3 4 5 6 @echo off cd &amp;#34;C:\MySQL\Engine\bin&amp;#34; mysqld --console echo 【按任意键退出】 pause&amp;gt;nul exit mkdocs 1 mkdocs serve --dev-addr=0.0.0.0:5858 zhtj ID ggcjdss9/ server 10.30.0.14 enfiyjy-svr\svradmin ggcjdss9/</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://xtddw.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/about/</guid>
+        <description>whoami  Name: 张官祥 Phone: +8613811772347 Email: zhanggx@enfi.com.cn Blog: xtddw Company: 中国恩菲工程技术有限公司  </description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://xtddw.github.io/work/huawei/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/work/huawei/</guid>
+        <description>万 王 张 宋
+行业解决方案
+数据驱动
+中石化 PaaS服务
+云平台租赁 SaaS服务
+私有云与公有云的版本维护、安全管理
+统一设备接入标准（Roma平台产品)
+设计院的数字化交付（产权、使用权限等）
+供应链协同
+数字化集成平台
+全连接工鞋协同数字化座舱 WeLink
+华为去A
+智慧园区
+Atlas人工智能训练算法，嵌入设备
+合作分工：华为云端资源提供，边缘计算服务</description>
+      </item>
+      
+
     
   </channel>
 </rss>

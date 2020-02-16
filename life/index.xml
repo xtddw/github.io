@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lives on Byone</title>
+    <link>https://xtddw.github.io/life/</link>
+    <description>Recent content in Lives on Byone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xtddw7@gmail.com (byone)</managingEditor>
+    <webMaster>xtddw7@gmail.com (byone)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 17:20:08 +0800</lastBuildDate>
+    
+        <atom:link href="https://xtddw.github.io/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Book</title>
+        <link>https://xtddw.github.io/life/book/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/book/</guid>
+        <description>Readed 小王子 圣埃克苏佩里 围城 钱钟书 活着 余华 1988我想和这个世界谈谈 韩寒 平凡的世界 路遥 明朝那些事儿 当年明月 万历十五年 黄仁宇 1Q84 村上春树 边城 沈从文 许</description>
+      </item>
+      
+      <item>
+        <title>Movie</title>
+        <link>https://xtddw.github.io/life/movie/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/movie/</guid>
+        <description>电影 肖申克的救赎 霸王别姬 这个杀手不太冷 千与千寻 泰坦尼克号 阿甘正传 盗梦空间 海上钢琴师 三傻大闹宝莱坞 忠犬八公的故事 大话西游之大圣娶亲/仙履奇缘 大</description>
+      </item>
+      
+      <item>
+        <title>宫崎骏</title>
+        <link>https://xtddw.github.io/life/gqj/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/gqj/</guid>
+        <description>风之谷 1984年：风之谷（风の谷のナウシカ) 天空之城 1986年：天空之城(天空の城ラピュタ) 龙猫 1988年：龙猫(となりのトトロ) 魔女宅急便</description>
+      </item>
+      
+      <item>
+        <title>李健</title>
+        <link>https://xtddw.github.io/life/lijian/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/life/lijian/</guid>
+        <description>似水流年 2003年9月 绽放 似水流年 远 一辈子的十分钟 今生今世 遥不可及 什刹海 八月照相馆 温暖 传奇 紫罗兰 为你而来 2005年1月 为你而来 不知不觉 在海上</description>
+      </item>
+      
+
+    
+  </channel>
+</rss>

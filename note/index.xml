@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Byone</title>
+    <link>https://xtddw.github.io/note/</link>
+    <description>Recent content in Notes on Byone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xtddw7@gmail.com (byone)</managingEditor>
+    <webMaster>xtddw7@gmail.com (byone)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 17:20:08 +0800</lastBuildDate>
+    
+        <atom:link href="https://xtddw.github.io/note/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>docker</title>
+        <link>https://xtddw.github.io/note/docker/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/docker/</guid>
+        <description>redis docker pull redis 创建redis容器，启动redis-server docker run -d --name myredis -p 6379:6379 -v /c:/Workspace/redis redis --appendonly yes dockers中开启磁盘共享 ​ * -it 启动交互界面 启动redis</description>
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>https://xtddw.github.io/note/git/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/git/</guid>
+        <description>配置 用户名和邮件 $ git config --global user.name &amp;quot;zhanggx&amp;quot; $ git config --global user.email enfizgx@163.com 设置别名 sudo git config &amp;ndash;system alias.st status sudo git config &amp;ndash;system alias.ci commit sudo git config &amp;ndash;system alias.co checkout sudo git config &amp;ndash;system alias.br branch 开启颜色提示 git config &amp;ndash;global color.ui true 教程</description>
+      </item>
+      
+      <item>
+        <title>link</title>
+        <link>https://xtddw.github.io/note/link/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/link/</guid>
+        <description>FindHao v2ex Hosts修改翻墙</description>
+      </item>
+      
+      <item>
+        <title>redis</title>
+        <link>https://xtddw.github.io/note/redis/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/redis/</guid>
+        <description>set key value get key mset mget 一次设置读取多个值 exists 判断key是否存在 del 删除key type 检查value类型 expire 设置key的有效值 expire key 时长(s) ex : set key value ex 时长(s)</description>
+      </item>
+      
+      <item>
+        <title>soft</title>
+        <link>https://xtddw.github.io/note/soft/</link>
+        <pubDate>Sun, 16 Feb 2020 17:20:08 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/soft/</guid>
+        <description>windows Listary total commander AHK Everything 搜索 common vim|neovim Emacs org-mode Potlayer WW 视频播放器 Foobar2000 音乐播放器 Ditto 剪贴版加强 hexo 博客 mkdocs 文档 Firefox/Chrome 浏览器（奔跑的奶牛） 书签同步 XMarks 鼠标手势 CLEAN crxMouse Gestures vim模式操作 Vimium gi</description>
+      </item>
+      
+      <item>
+        <title>sercet</title>
+        <link>https://xtddw.github.io/note/sercet/</link>
+        <pubDate>Sun, 29 Dec 2019 13:36:17 +0800</pubDate>
+        <author>xtddw7@gmail.com (byone)</author>
+        <guid>https://xtddw.github.io/note/sercet/</guid>
+        <description>jupyter jupyter 0198 1 2 3 4 5 6 @echo off cd &amp;#34;c:\jupyter&amp;#34; jupyter notebook echo 【按任意键退出】 pause&amp;gt;nul exit mysql 3306 root 12346 1 2 3 4 5 6 @echo off cd &amp;#34;C:\MySQL\Engine\bin&amp;#34; mysqld --console echo 【按任意键退出】 pause&amp;gt;nul exit mkdocs 1 mkdocs serve --dev-addr=0.0.0.0:5858 zhtj ID ggcjdss9/ server 10.30.0.14 enfiyjy-svr\svradmin ggcjdss9/</description>
+      </item>
+      
+
+    
+  </channel>
+</rss>
